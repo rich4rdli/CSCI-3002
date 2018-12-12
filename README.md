@@ -4,7 +4,7 @@ Welcome to the Trashr application prototype, developed by Jeff Huynh, Richard Li
 
 Try out our [project demo](https://www.figma.com/file/bnXXtKIURRDcLiOExmUpqyNn/Trashr-Final?node-id=0%3A1)!
 
-Watch our video prototype demo [here](https://drive.google.com/file/d/1aIYP37fXMKXSy5VOPAhdomG8SPWueNuS/view?usp=sharing) or [here](https://drive.google.com/open?id=1Ga1LLHZPFhpVsBEjfhGtH0XUiNj_-dOj) (if the first link does not work)!
+Watch our video prototype demo [here](https://drive.google.com/file/d/1aIYP37fXMKXSy5VOPAhdomG8SPWueNuS/view?usp=sharing) or [here](https://drive.google.com/open?id=1Ga1LLHZPFhpVsBEjfhGtH0XUiNj_-dOj) !
 
 A lot of planning went into designing this prototype, you can find relevant class assignments here:
 
@@ -20,6 +20,6 @@ A lot of planning went into designing this prototype, you can find relevant clas
 
 
 Contact us!
-Jeff Huynh - jehu0078@colorado.edu\
-Richard Li - rili7163@colorado.edu\
+Jeff Huynh - jehu0078@colorado.edu   
+Richard Li - rili7163@colorado.edu   
 Nicholas Mozdzier - nimo0890@colorado.edu
