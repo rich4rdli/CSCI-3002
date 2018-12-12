@@ -19,7 +19,10 @@ A lot of planning went into designing this prototype, you can find relevant clas
 [Group 6 - Final Prototype and Storyboard](https://docs.google.com/document/d/14sr9xG6XugkMHnuxw3oowlllf3O-DVAuOVKCJqXze64/edit?usp=sharing)
 
 
-Contact us!
+  
+
+Contact us!    
+
 Jeff Huynh - jehu0078@colorado.edu   
 Richard Li - rili7163@colorado.edu   
 Nicholas Mozdzier - nimo0890@colorado.edu
